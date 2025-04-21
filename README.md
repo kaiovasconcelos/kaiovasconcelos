@@ -25,11 +25,14 @@
 
 </div>
 
+## 🤖 Estatísticas 
+
+![Kaio Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiovasconcelos&show_icons=true&theme=transparent)
+
 ## 📫 Contato
 
 - 📧 kaioaugusto797@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kaio-augusto/)  
-- 🌐 [Portfólio (opcional se tiver)](https://seu-portfolio.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kaio-augusto/)
 
 ---
 
