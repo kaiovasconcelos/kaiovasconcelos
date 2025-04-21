@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Kaio Augusto!
 
-<!--
-**kaiovasconcelos/kaiovasconcelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor Back-end apaixonado por criar soluções eficientes, escaláveis e com impacto real no dia a dia das pessoas e empresas.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Estudante de Ciência da Computação na UNIFG (conclusão em 2026)
+- 👨🏻‍💻 Atuo como Software Engineer Pleno na FCx Labs
+- 🛠️ Especializado em desenvolvimento back-end com foco em .NET & C#
+- ⚙️ Apaixonado por arquitetura limpa, boas práticas e performance
+- ☁️ Familiaridade com AWS, Docker, mensageria e microsserviços
+
+## 🧰 Tecnologias & Ferramentas
+
+<div style="display: flex; gap: 10px;">
+  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## 📫 Contato
+
+- 📧 kaioaugusto797@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kaio-augusto/)  
+- 🌐 [Portfólio (opcional se tiver)](https://seu-portfolio.com)  
+
+---
+
+> 💡 *“Construir soluções simples para problemas complexos — esse é o meu combustível.”*
+
