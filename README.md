@@ -31,7 +31,7 @@
 
 ## 📫 Contato
 
-- 📧 kaioaugusto797@gmail.com  
+- 📧 kaio.vasconcelos797@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kaio-augusto/)
 
 ---
